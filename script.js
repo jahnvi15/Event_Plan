@@ -1,0 +1,2 @@
+const text = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi esse vero eos, aliquam id tempora reprehenderit assumenda sit veniam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi esse vero eos, aliquam id tempora reprehenderit assumenda sit veniam? '
+document.querySelectorAll(".face").forEach((f) => {f.innerHTML = text})
